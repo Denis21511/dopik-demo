@@ -1,4 +1,4 @@
-/* коды коротких ссылок из рассылки допика: ?k=код → название, город и стиль. Генерируют рассылка/волна1/build3.py и рассылка/волна2/build.py */
+/* коды коротких ссылок из рассылки допика: ?k=код → название, город и стиль. Генерируют рассылка/волна1/build3.py и рассылка/волнаN/build.py */
 window.COMPANIES = {
 "doka-stroy": {
 "n": "Дока Строй",
@@ -2122,5 +2122,1205 @@ window.COMPANIES = {
 "stroyotdel": {
 "n": "СтройОтдел",
 "c": "Тверь"
+},
+"stroitelnye-i-otdelochny-ast": {
+"n": "TRENDI",
+"c": "Астрахань",
+"t": {
+"p": "#2e60d9",
+"pi": "#ffffff",
+"font": "Cormorant Garamond",
+"lt": "TRENDI",
+"lb": "#ffffff",
+"hero": "b/stroitelnye-i-otdelochny-ast-hero.jpg",
+"dark": true
+}
+},
+"masterplyus31": {
+"n": "МастерПлюс31",
+"c": "Белгород"
+},
+"interriya": {
+"n": "Интеррия",
+"c": "Владимир",
+"t": {
+"p": "#ff6740",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"lt": "Интеррия",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6d382a)"
+}
+},
+"asd": {
+"n": "Asd",
+"c": "Иваново"
+},
+"elitstroypartner": {
+"n": "ЭлитСтройПартнер",
+"c": "Калуга",
+"t": {
+"p": "#000078",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"logo": "b/elitstroypartner-logo.png",
+"lb": "#1b1d21",
+"hero": "b/elitstroypartner-hero.jpg",
+"dark": true
+}
+},
+"global": {
+"n": "Глобал",
+"c": "Кострома",
+"t": {
+"p": "#ffbb12",
+"pi": "#141414",
+"h": "#202020",
+"font": "Montserrat",
+"up": true,
+"logo": "b/global-logo.svg",
+"lb": "#ffffff",
+"hero": "b/global-hero.jpg"
+}
+},
+"terraco": {
+"n": "Terraco",
+"c": "Курск"
+},
+"soffitto": {
+"n": "Soffitto",
+"c": "Орёл",
+"t": {
+"p": "#d89c00",
+"pi": "#ffffff",
+"font": "Roboto",
+"up": true,
+"logo": "b/soffitto-logo.png",
+"lb": "#6f6b6a",
+"hero": "b/soffitto-hero.jpg"
+}
+},
+"kivi": {
+"n": "Киви",
+"c": "Саранск",
+"t": {
+"p": "#1aeb12",
+"pi": "#141414",
+"font": "Manrope",
+"lt": "Киви",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #1d661a)"
+}
+},
+"remotdelgroup": {
+"n": "RemOtdelGroup",
+"c": "Смоленск",
+"t": {
+"p": "#e70e00",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"logo": "b/remotdelgroup-logo.svg",
+"lb": "#1b1d21",
+"hero": "b/remotdelgroup-hero.jpg"
+}
+},
+"kompleks-houm-stav": {
+"n": "Комплекс Хоум Став",
+"c": "Ставрополь",
+"t": {
+"p": "#f0b40c",
+"pi": "#141414",
+"font": "Manrope",
+"logo": "b/kompleks-houm-stav-logo.png",
+"lb": "#1b1d21",
+"hero": "b/kompleks-houm-stav-hero.jpg"
+}
+},
+"kapitalstroy": {
+"n": "КапиталСтрой",
+"c": "Тамбов",
+"t": {
+"p": "#25b536",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "КапиталСтрой",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #215327)"
+}
+},
+"manrom": {
+"n": "Manrom",
+"c": "Чебоксары",
+"t": {
+"p": "#30180c",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Manrom",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #241c18)",
+"dark": true
+}
+},
+"otdelochnik33": {
+"n": "Отделочник33",
+"c": "Владимир",
+"t": {
+"p": "#fdc300",
+"pi": "#141414",
+"font": "Inter",
+"up": true,
+"lt": "Отделочник33",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6c5814)"
+}
+},
+"abrispro": {
+"n": "АБРИСпро",
+"c": "Иваново",
+"t": {
+"p": "#30180c",
+"pi": "#ffffff",
+"h": "#1e1e1e",
+"font": "Manrope",
+"up": true,
+"logo": "b/abrispro-logo.png",
+"lb": "#ffffff",
+"hero": "b/abrispro-hero.jpg"
+}
+},
+"montazhbytstroy": {
+"n": "МонтажБытСтрой",
+"c": "Кострома",
+"t": {
+"p": "#e4cc18",
+"pi": "#141414",
+"font": "Manrope",
+"logo": "b/montazhbytstroy-logo.svg",
+"lb": "#1b1d21",
+"hero": "b/montazhbytstroy-hero.jpg",
+"dark": true
+}
+},
+"elektro46": {
+"n": "Электро46",
+"c": "Курск",
+"t": {
+"p": "#186cfc",
+"pi": "#ffffff",
+"font": "Tenor Sans",
+"logo": "b/elektro46-logo.png",
+"lb": "#1b1d21",
+"hb": "linear-gradient(135deg, #1f2125, #1c396c)"
+}
+},
+"evrodom": {
+"n": "ЕвроДом",
+"c": "Смоленск",
+"t": {
+"p": "#c9ad65",
+"pi": "#ffffff",
+"font": "Manrope",
+"logo": "b/evrodom-logo.png",
+"lb": "#ffffff",
+"hero": "b/evrodom-hero.jpg"
+}
+},
+"remontstayl": {
+"n": "Ремонтстайл",
+"c": "Ставрополь",
+"t": {
+"p": "#00aeef",
+"pi": "#ffffff",
+"font": "Manrope",
+"logo": "b/remontstayl-logo.png",
+"lb": "#1b1d21",
+"hb": "linear-gradient(135deg, #1f2125, #145167)",
+"dark": true
+}
+},
+"tambov-remont": {
+"n": "Тамбов-Ремонт",
+"c": "Тамбов",
+"t": {
+"p": "#f0cc54",
+"pi": "#141414",
+"font": "Fira Sans",
+"logo": "b/tambov-remont-logo.png",
+"lb": "#ffffff",
+"hero": "b/tambov-remont-hero.jpg"
+}
+},
+"dizayn-intererov-dim-mak": {
+"n": "Дизайн интерьеров Dim Maksimov",
+"c": "Чебоксары",
+"t": {
+"p": "#f0e4d8",
+"pi": "#141414",
+"h": "#12141f",
+"font": "Montserrat",
+"logo": "b/dizayn-intererov-dim-mak-logo.svg",
+"lb": "#1b1d21",
+"hero": "b/dizayn-intererov-dim-mak-hero.jpg",
+"dark": true
+}
+},
+"perimetr": {
+"n": "Периметр",
+"c": "Владимир",
+"t": {
+"p": "#e46c18",
+"pi": "#ffffff",
+"font": "Montserrat",
+"up": true,
+"lt": "Периметр",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #63391c)"
+}
+},
+"etalon-servis": {
+"n": "Эталон-сервис",
+"c": "Иваново",
+"t": {
+"p": "#d82035",
+"pi": "#ffffff",
+"font": "Nunito",
+"up": true,
+"logo": "b/etalon-servis-logo.png",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #5f1f26)"
+}
+},
+"nachni-remont": {
+"n": "Начни ремонт",
+"c": "Кострома",
+"t": {
+"p": "#2196f3",
+"pi": "#ffffff",
+"font": "Jost",
+"up": true,
+"lt": "Начни ремонт",
+"lb": "#ffffff",
+"hero": "b/nachni-remont-hero.jpg"
+}
+},
+"vudhauz": {
+"n": "ВудХауз",
+"c": "Курск"
+},
+"tehnologika": {
+"n": "Технологика",
+"c": "Смоленск",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Inter",
+"up": true,
+"logo": "b/tehnologika-logo.png",
+"lb": "#1b1d21",
+"hero": "b/tehnologika-hero.jpg",
+"dark": true
+}
+},
+"remstroyotdelka": {
+"n": "Ремстройотделка",
+"c": "Ставрополь"
+},
+"ekspert": {
+"n": "Эксперт",
+"c": "Тамбов",
+"t": {
+"p": "#ff5063",
+"pi": "#ffffff",
+"font": "Manrope",
+"logo": "b/ekspert-logo.png",
+"lb": "#4b4f5b",
+"hb": "linear-gradient(135deg, #1f2125, #6d3036)",
+"dark": true
+}
+},
+"artbent": {
+"n": "Artbent",
+"c": "Чебоксары",
+"t": {
+"p": "#247ea0",
+"pi": "#ffffff",
+"font": "Jost",
+"logo": "b/artbent-logo.png",
+"lb": "#33718c",
+"hb": "linear-gradient(135deg, #1f2125, #20404c)"
+}
+},
+"gradusov": {
+"n": "Градусов",
+"c": "Астрахань",
+"t": {
+"p": "#dcf8b5",
+"pi": "#141414",
+"h": "#335c24",
+"font": "Manrope",
+"lt": "Градусов",
+"lb": "#ffffff",
+"hero": "b/gradusov-hero.jpg"
+}
+},
+"kontur": {
+"n": "Контур",
+"c": "Белгород",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Контур",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #202020)"
+}
+},
+"krosskom": {
+"n": "Кросском",
+"c": "Владимир",
+"t": {
+"p": "#1382c2",
+"pi": "#ffffff",
+"h": "#151621",
+"font": "Raleway",
+"logo": "b/krosskom-logo.png",
+"lb": "#ffffff",
+"hero": "b/krosskom-hero.jpg"
+}
+},
+"azbuka-uyuta": {
+"n": "Азбука уюта",
+"c": "Вологда",
+"t": {
+"p": "#7e6fe6",
+"pi": "#ffffff",
+"h": "#4d4d4d",
+"font": "Manrope",
+"logo": "b/azbuka-uyuta-logo.png",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #403b64)",
+"dark": true
+}
+},
+"vash-dom-37": {
+"n": "Ваш Дом 37",
+"c": "Иваново",
+"t": {
+"p": "#0088cc",
+"pi": "#ffffff",
+"h": "#333333",
+"font": "Manrope",
+"logo": "b/vash-dom-37-logo.png",
+"lb": "#ffffff",
+"hero": "b/vash-dom-37-hero.jpg"
+}
+},
+"otdelkovo": {
+"n": "Отделково",
+"c": "Калуга",
+"t": {
+"p": "#ff0000",
+"pi": "#ffffff",
+"font": "Roboto",
+"up": true,
+"logo": "b/otdelkovo-logo.png",
+"lb": "#1b1d21",
+"hero": "b/otdelkovo-hero.jpg"
+}
+},
+"dom-mechty-kos": {
+"n": "Дом мечты",
+"c": "Кострома",
+"t": {
+"p": "#3c3486",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Дом мечты",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #292643)"
+}
+},
+"otdel-remontov": {
+"n": "Отдел ремонтов",
+"c": "Курск",
+"t": {
+"p": "#ac1406",
+"pi": "#ffffff",
+"font": "Open Sans",
+"up": true,
+"lt": "Отдел ремонтов",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #501b16)"
+}
+},
+"dizayn-interera-kvadratn": {
+"n": "Дизайн интерьера Квадратный метр",
+"c": "Орёл",
+"t": {
+"p": "#f4038e",
+"pi": "#ffffff",
+"font": "Manrope",
+"logo": "b/dizayn-interera-kvadratn-logo.png",
+"lb": "#ffffff",
+"hero": "b/dizayn-interera-kvadratn-hero.jpg"
+}
+},
+"otdelka-saransk": {
+"n": "Отделка-Саранск",
+"c": "Саранск",
+"t": {
+"p": "#0d6efd",
+"pi": "#ffffff",
+"font": "Inter",
+"lt": "Отделка-Саранск",
+"lb": "#ffffff",
+"hero": "b/otdelka-saransk-hero.jpg"
+}
+},
+"kale-color": {
+"n": "Kale COLOR",
+"c": "Смоленск",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Montserrat",
+"up": true,
+"logo": "b/kale-color-logo.svg",
+"lb": "#1b1d21",
+"hb": "linear-gradient(135deg, #1f2125, #202020)"
+}
+},
+"masterdom": {
+"n": "МастерДом",
+"c": "Ставрополь",
+"t": {
+"p": "#00aeda",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "МастерДом",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #145160)"
+}
+},
+"interer-servis-plyus": {
+"n": "Интерьер-Сервис плюс",
+"c": "Тамбов",
+"t": {
+"p": "#000000",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Интерьер-Сервис плюс",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #141414)"
+}
+},
+"art-kontsept": {
+"n": "Art Концепт",
+"c": "Чебоксары",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"logo": "b/art-kontsept-logo.png",
+"lb": "#776d63",
+"hero": "b/art-kontsept-hero.jpg"
+}
+},
+"stroitelnye-i-otdelochny-3": {
+"n": "Мастер ремонта",
+"c": "Астрахань",
+"t": {
+"p": "#b4cce4",
+"pi": "#141414",
+"font": "Manrope",
+"up": true,
+"lt": "Мастер ремонта",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #535b63)"
+}
+},
+"otdelka-veka": {
+"n": "Отделка Века",
+"c": "Белгород",
+"t": {
+"p": "#ff822e",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"lt": "Отделка Века",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6d4124)"
+}
+},
+"otdelka33": {
+"n": "Отделка33",
+"c": "Владимир",
+"t": {
+"p": "#000000",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Отделка33",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #141414)"
+}
+},
+"alfastroy": {
+"n": "Альфастрой",
+"c": "Вологда",
+"t": {
+"p": "#2787f5",
+"pi": "#ffffff",
+"font": "Unbounded",
+"lt": "Альфастрой",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #214369)"
+}
+},
+"vseumelets": {
+"n": "Всеумелец",
+"c": "Иваново",
+"t": {
+"p": "#ff9900",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Всеумелец",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6d4914)",
+"dark": true
+}
+},
+"poligran": {
+"n": "Полигран",
+"c": "Калуга",
+"t": {
+"p": "#ff6828",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"logo": "b/poligran-logo.svg",
+"lb": "#ffffff",
+"hero": "b/poligran-hero.jpg"
+}
+},
+"kostroma-remont": {
+"n": "Кострома Ремонт",
+"c": "Кострома",
+"t": {
+"p": "#14b578",
+"pi": "#ffffff",
+"h": "#222222",
+"font": "Manrope",
+"logo": "b/kostroma-remont-logo.png",
+"lb": "#ffffff",
+"hero": "b/kostroma-remont-hero.jpg"
+}
+},
+"otdelka-kursk": {
+"n": "Отделка Курск",
+"c": "Курск",
+"t": {
+"p": "#29d1a9",
+"pi": "#141414",
+"h": "#122432",
+"font": "Poppins",
+"logo": "b/otdelka-kursk-logo.svg",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #225d4f)"
+}
+},
+"master-remonta": {
+"n": "Мастер Ремонта",
+"c": "Орёл"
+},
+"smolrem-ru": {
+"n": "Smolrem.ru",
+"c": "Смоленск",
+"t": {
+"p": "#96774b",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"logo": "b/smolrem-ru-logo.png",
+"lb": "#ffffff",
+"hero": "b/smolrem-ru-hero.jpg"
+}
+},
+"stavropolremontservis": {
+"n": "Ставропольремонтсервис",
+"c": "Ставрополь",
+"t": {
+"p": "#c0d890",
+"pi": "#141414",
+"font": "Open Sans",
+"up": true,
+"logo": "b/stavropolremontservis-logo.png",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #575f46)"
+}
+},
+"megastroy68": {
+"n": "Мегастрой68",
+"c": "Тамбов",
+"t": {
+"p": "#f5f523",
+"pi": "#141414",
+"font": "Roboto",
+"lt": "Мегастрой68",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #696920)"
+}
+},
+"gen-pro21": {
+"n": "Ген-про21",
+"c": "Чебоксары",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "IBM Plex Sans",
+"lt": "Ген-про21",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #202020)",
+"dark": true
+}
+},
+"stroy": {
+"n": "Строй",
+"c": "Астрахань",
+"t": {
+"p": "#fcc000",
+"pi": "#141414",
+"font": "Oswald",
+"up": true,
+"lt": "Строй",
+"lb": "#ffffff",
+"hero": "b/stroy-hero.jpg"
+}
+},
+"stroim31-ru": {
+"n": "Строим31. ру",
+"c": "Белгород",
+"t": {
+"p": "#212529",
+"pi": "#ffffff",
+"h": "#212529",
+"font": "Manrope",
+"lt": "Строим31. ру",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #1f2122)"
+}
+},
+"proremont-33": {
+"n": "ПроРемонт 33",
+"c": "Владимир",
+"t": {
+"p": "#ffde02",
+"pi": "#141414",
+"h": "#1f272e",
+"font": "Roboto",
+"logo": "b/proremont-33-logo.png",
+"lb": "#ffffff",
+"hero": "b/proremont-33-hero.jpg"
+}
+},
+"sitistroydom": {
+"n": "СитиСтройДом",
+"c": "Вологда",
+"t": {
+"p": "#fcd83c",
+"pi": "#141414",
+"font": "Manrope",
+"logo": "b/sitistroydom-logo.png",
+"lb": "#eff1f2",
+"hb": "linear-gradient(135deg, #1f2125, #6c5f29)"
+}
+},
+"gefestiya": {
+"n": "Гефестия",
+"c": "Иваново",
+"t": {
+"p": "#ffcc18",
+"pi": "#141414",
+"h": "#13212f",
+"font": "Manrope",
+"lt": "Гефестия",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6d5b1c)"
+}
+},
+"rubezh": {
+"n": "Рубеж",
+"c": "Калуга",
+"t": {
+"p": "#8c3c5a",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Рубеж",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #452933)",
+"dark": true
+}
+},
+"mneremont": {
+"n": "МнеРемонт",
+"c": "Кострома",
+"t": {
+"p": "#fcb40c",
+"pi": "#141414",
+"font": "Manrope",
+"lt": "МнеРемонт",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6c5318)"
+}
+},
+"orelremont": {
+"n": "ОрелРемонт",
+"c": "Орёл",
+"t": {
+"p": "#340ef2",
+"pi": "#ffffff",
+"h": "#001a27",
+"font": "Open Sans",
+"lt": "ОрелРемонт",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #261968)"
+}
+},
+"evroremont": {
+"n": "Евроремонт",
+"c": "Смоленск",
+"t": {
+"p": "#21ad33",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Евроремонт",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #1f5026)"
+}
+},
+"storitsa": {
+"n": "Сторица",
+"c": "Ставрополь",
+"t": {
+"p": "#fbba00",
+"pi": "#141414",
+"font": "Manrope",
+"lt": "Сторица",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6c5514)"
+}
+},
+"polet-babochki": {
+"n": "Полет бабочки",
+"c": "Тамбов",
+"t": {
+"p": "#9c1818",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Полет бабочки",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #4a1c1c)"
+}
+},
+"imperiya": {
+"n": "Империя",
+"c": "Чебоксары",
+"t": {
+"p": "#007df0",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Империя",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #143f68)"
+}
+},
+"stroitelnaya-otdelka-gor": {
+"n": "Строительная отделка Город Мастеров",
+"c": "Владимир",
+"t": {
+"p": "#f3cc2f",
+"pi": "#141414",
+"font": "Manrope",
+"up": true,
+"lt": "Строительная отделка Город Мастеров",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #695b24)"
+}
+},
+"stroymarka": {
+"n": "Строймарка",
+"c": "Вологда",
+"t": {
+"p": "#d83c30",
+"pi": "#ffffff",
+"h": "#2a2623",
+"font": "Manrope",
+"lt": "Строймарка",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #5f2924)",
+"dark": true
+}
+},
+"otdelka-i-remont-kvartir": {
+"n": "Отделка и ремонт в Иваново",
+"c": "Иваново",
+"t": {
+"p": "#cc0000",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Отделка и ремонт в Иваново",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #5b1414)",
+"dark": true
+}
+},
+"horoshiy-remont-klg": {
+"n": "Хороший ремонт",
+"c": "Калуга"
+},
+"stroyrem-44": {
+"n": "СтройРем 44",
+"c": "Кострома"
+},
+"orlovskiy-tokarev": {
+"n": "Орловский Токарев",
+"c": "Орёл",
+"t": {
+"p": "#e22720",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"lt": "Орловский Токарев",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #63211f)",
+"dark": true
+}
+},
+"pilum": {
+"n": "Пилум",
+"c": "Смоленск",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Open Sans",
+"up": true,
+"lt": "Пилум",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #202020)",
+"dark": true
+}
+},
+"studiya-remonta-kapustin": {
+"n": "Студия ремонта Капустина",
+"c": "Ставрополь",
+"t": {
+"p": "#cc9054",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Студия ремонта Капустина",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #5b4631)",
+"dark": true
+}
+},
+"remont-pod-klyuch": {
+"n": "Ремонт под ключ 68",
+"c": "Тамбов",
+"t": {
+"p": "#0360fb",
+"pi": "#ffffff",
+"h": "#333333",
+"font": "Inter",
+"lt": "Ремонт под ключ 68",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #15356c)"
+}
+},
+"spetsremont-chb": {
+"n": "СпецРемонт",
+"c": "Чебоксары",
+"t": {
+"p": "#e39400",
+"pi": "#ffffff",
+"font": "Montserrat",
+"up": true,
+"lt": "СпецРемонт",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #634714)"
+}
+},
+"studiya-remonta-pro": {
+"n": "Студия Ремонта Pro",
+"c": "Владимир",
+"t": {
+"p": "#12b2e7",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Студия Ремонта Pro",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #1a5265)"
+}
+},
+"eleon-vol": {
+"n": "Элеон",
+"c": "Вологда",
+"t": {
+"p": "#f32e2e",
+"pi": "#ffffff",
+"h": "#454545",
+"font": "Commissioner",
+"up": true,
+"lt": "Элеон",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #692424)"
+}
+},
+"remstroy-37": {
+"n": "Ремстрой 37",
+"c": "Иваново",
+"t": {
+"p": "#fd3101",
+"pi": "#ffffff",
+"font": "Poppins",
+"lt": "Ремстрой 37",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6c2514)"
+}
+},
+"art-dizayn": {
+"n": "Арт Дизайн",
+"c": "Калуга",
+"t": {
+"p": "#212121",
+"pi": "#ffffff",
+"h": "#212121",
+"font": "Manrope",
+"lt": "Арт Дизайн",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #1f1f1f)"
+}
+},
+"idesign": {
+"n": "IDesign",
+"c": "Кострома",
+"t": {
+"p": "#008080",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"lt": "IDesign",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #144040)"
+}
+},
+"smolkarkasstroy": {
+"n": "СмолКаркасСтрой",
+"c": "Смоленск"
+},
+"teremok-tehnologii-remon": {
+"n": "ТеРемОК",
+"c": "Ставрополь",
+"t": {
+"p": "#f0cc0c",
+"pi": "#141414",
+"font": "Open Sans",
+"up": true,
+"lt": "ТеРемОК",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #685b18)"
+}
+},
+"remont-pomescheniy": {
+"n": "Ремонт в Тамбове",
+"c": "Тамбов",
+"t": {
+"p": "#fcd83c",
+"pi": "#141414",
+"font": "Manrope",
+"lt": "Ремонт в Тамбове",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6c5f29)"
+}
+},
+"stroy-uslugi": {
+"n": "Строй Услуги",
+"c": "Чебоксары",
+"t": {
+"p": "#000000",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Строй Услуги",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #141414)"
+}
+},
+"taurus-stroy": {
+"n": "ТауРус строй",
+"c": "Владимир",
+"t": {
+"p": "#00b258",
+"pi": "#ffffff",
+"font": "Roboto Condensed",
+"up": true,
+"lt": "ТауРус строй",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #145232)",
+"dark": true
+}
+},
+"stroy-servis-ivn": {
+"n": "Строй-Сервис",
+"c": "Иваново",
+"t": {
+"p": "#fcf0a8",
+"pi": "#141414",
+"h": "#1f1f1b",
+"font": "Raleway",
+"lt": "Строй-Сервис",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #6c684e)"
+}
+},
+"favorit-yug": {
+"n": "Фаворит Юг",
+"c": "Ставрополь",
+"t": {
+"p": "#000000",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Фаворит Юг",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #141414)"
+}
+},
+"stroymetrika": {
+"n": "Стройметрика",
+"c": "Тамбов",
+"t": {
+"p": "#002233",
+"pi": "#ffffff",
+"h": "#002233",
+"font": "Manrope",
+"up": true,
+"lt": "Стройметрика",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #142026)"
+}
+},
+"umnyy-remont": {
+"n": "Умный ремонт",
+"c": "Чебоксары",
+"t": {
+"p": "#ccc078",
+"pi": "#141414",
+"font": "Manrope",
+"up": true,
+"lt": "Умный ремонт",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #5b573e)"
+}
+},
+"uroven-33": {
+"n": "Уровень 33",
+"c": "Владимир",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "Уровень 33",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #202020)"
+}
+},
+"stroykom": {
+"n": "СтройКом",
+"c": "Иваново",
+"t": {
+"p": "#f0d800",
+"pi": "#141414",
+"font": "Open Sans",
+"lt": "СтройКом",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #685f14)",
+"dark": true
+}
+},
+"chebstroy": {
+"n": "Чебстрой",
+"c": "Чебоксары",
+"t": {
+"p": "#c14b47",
+"pi": "#ffffff",
+"font": "Roboto",
+"lt": "Чебстрой",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #572e2d)"
+}
+},
+"uyutstroy": {
+"n": "УютСтрой",
+"c": "Владимир",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Manrope",
+"lt": "УютСтрой",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #202020)"
+}
+},
+"studiya-interera-evgeniy": {
+"n": "Студия интерьера Евгения Крушева",
+"c": "Иваново",
+"t": {
+"p": "#600000",
+"pi": "#ffffff",
+"h": "#333333",
+"font": "Roboto",
+"lt": "Студия интерьера Евгения Крушева",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #351414)"
+}
+},
+"yarmarka-remonta": {
+"n": "Ярмарка ремонта",
+"c": "Чебоксары",
+"t": {
+"p": "#bcd02c",
+"pi": "#141414",
+"font": "Roboto",
+"up": true,
+"lt": "Ярмарка ремонта",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #555c23)"
+}
+},
+"33-shtukatura": {
+"n": "33 Штукатура",
+"c": "Владимир",
+"t": {
+"p": "#2d6aa1",
+"pi": "#ffffff",
+"font": "Open Sans",
+"lt": "33 Штукатура",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #23394c)"
+}
+},
+"ml-design-studio": {
+"n": "Ml Design Studio",
+"c": "Владимир",
+"t": {
+"p": "#222222",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"lt": "Ml Design Studio",
+"lb": "#ffffff",
+"hb": "linear-gradient(135deg, #1f2125, #202020)"
+}
 }
 };
