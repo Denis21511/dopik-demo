@@ -3377,7 +3377,16 @@ window.COMPANIES = {
 },
 "gornitsa": {
 "n": "ГорниЦа",
-"c": "Улан-Удэ"
+"c": "Улан-Удэ",
+"t": {
+"p": "#f20d18",
+"pi": "#ffffff",
+"h": "#111111",
+"font": "Inter",
+"logo": "b/gornitsa-logo.png",
+"lb": "#ffffff",
+"hero": "b/gornitsa-hero.jpg"
+}
 },
 "ingain-kompleksnyy-dizay": {
 "n": "Ingain - комплексный дизайн интерьера",
