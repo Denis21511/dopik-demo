@@ -3416,8 +3416,18 @@ window.COMPANIES = {
 "c": "Псков"
 },
 "uni-apart": {
-"n": "Uni Apart",
-"c": "Сочи"
+"n": "ЮниАпарт",
+"c": "Сочи",
+"t": {
+"p": "#de0814",
+"pi": "#ffffff",
+"h": "#292929",
+"font": "Poppins",
+"up": true,
+"logo": "b/uni-apart-logo.png",
+"lb": "#ffffff",
+"hero": "b/uni-apart-hero.jpg"
+}
 },
 "remont-102": {
 "n": "Ремонт 102",
@@ -3425,7 +3435,16 @@ window.COMPANIES = {
 },
 "interriya-syk": {
 "n": "Интеррия",
-"c": "Сыктывкар"
+"c": "Сыктывкар",
+"t": {
+"p": "#ff5e33",
+"pi": "#ffffff",
+"font": "Manrope",
+"up": true,
+"logo": "b/interriya-syk-logo.svg",
+"lb": "#ffffff",
+"hero": "b/interriya-syk-hero.jpg"
+}
 },
 "azbuka-remonta-tom": {
 "n": "Азбука Ремонта",
@@ -3492,8 +3511,18 @@ window.COMPANIES = {
 "c": "Сочи"
 },
 "alfa-stroy": {
-"n": "Альфа-строй",
-"c": "Томск"
+"n": "Альфа Строй",
+"c": "Томск",
+"t": {
+"p": "#e83304",
+"pi": "#ffffff",
+"h": "#571010",
+"font": "Unbounded",
+"up": true,
+"logo": "b/alfa-stroy-logo.png",
+"lb": "#f4f4f4",
+"hero": "b/alfa-stroy-hero.jpg"
+}
 },
 "remstroy-dv": {
 "n": "РемСтрой ДВ",
